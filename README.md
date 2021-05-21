@@ -7,12 +7,12 @@
 2. Project how players who match a certain minimum grade would perform in a particular conference.
 
 ## Resources: 
-[Musselman Article](https://theathletic.com/2589645/2021/05/17/the-muss-bus-is-loaded-again-with-transfers-which-means-arkansas-is-ready-to-roll/)  
-[Evan Miya](https://evanmiya.com/)  
-[Barttorvik](https://barttorvik.com/playerstat.php?link=y&year=2021&start=20201101&end=20210501)  
-[Sports Reference](https://www.sports-reference.com/cbb/)  
-[Real GM](https://basketball.realgm.com/ncaa/stats)  
-[Shot Quality](https://shotquality.com/player-stats)  
+  - [Musselman Article](https://theathletic.com/2589645/2021/05/17/the-muss-bus-is-loaded-again-with-transfers-which-means-arkansas-is-ready-to-roll/)  
+  - [Evan Miya](https://evanmiya.com/)  
+  - [Barttorvik](https://barttorvik.com/playerstat.php?link=y&year=2021&start=20201101&end=20210501)  
+  - [Sports Reference](https://www.sports-reference.com/cbb/)  
+  - [Real GM](https://basketball.realgm.com/ncaa/stats)  
+  - [Shot Quality](https://shotquality.com/player-stats)  
 
 ### Some main things to initially include in the algorithm:
 ```
