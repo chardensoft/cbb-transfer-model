@@ -2,7 +2,7 @@
 
 ## Authors: Chris Harden, Jake Coyne, Logan Clarke, Jacob Miller
 
-##Prompt:
+## Prompt:
 1. Build a model that grades players on a 1-100 scale based on college production.
 2. Project how players who match a certain minimum grade would perform in a particular conference.
 
